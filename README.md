@@ -6,7 +6,7 @@ I'm a Front Web Developer with 1 year of experience. Recently I am learning Full
 Now I'm seeking a creative and challenging position that utilizes current web development and design knowledge. I work well both independently and as part of a team.
 
 Contact:
-Email: jubayerahmedshamim44@gmail.com
+Email: jubayerahmedshamim44@gmail.com <br/>
 WhatsApp: +880178083204
 
 Skills: HTML / CSS / JavaScript / React.js / MongoDB
