@@ -1,11 +1,12 @@
+![I am a Front-End Web Developer](https://i.ibb.co/R730SkK/which-development-job-is-right-for-you.jpg)
 ### Hi there 👋, I'm Md Jubayer Ahmed
 #### I am a Front-End Web Developer
-![I am a Front-End Web Developer](https://i.ibb.co/R730SkK/which-development-job-is-right-for-you.jpg)
+
 
 I'm a Front Web Developer with 1 year of experience. Recently I am learning Full Stake Web Development with Programming Hero. I completed some front-end and full-stake projects using HTML5, CSS3, JavaScript, Tailwind, Firebase DaisyUI, Node.js, express.js, and MongoDB. 
 Now I'm seeking a creative and challenging position that utilizes current web development and design knowledge. I work well both independently and as part of a team.
 
-Contact:
+Contact: <br/>
 Email: jubayerahmedshamim44@gmail.com <br/>
 WhatsApp: +880178083204
 
